@@ -1,0 +1,44 @@
+---
+title: "Description des données"
+output: html_document
+---
+
+## 1. Les limites communales — OpenStreetMap (OSM)
+
+Les limites communales utilisées dans ce projet sont issues 
+d'OpenStreetMap (OSM), une base de données géographique collaborative 
+et libre de droits, alimentée par une communauté mondiale de 
+contributeurs. Ces données fournissent les contours géographiques 
+précis des communes de Bordeaux et Biarritz, sous forme de couches 
+vectorielles polygonales. Elles constituent le cadre spatial de 
+référence de l'ensemble de l'étude, permettant de délimiter les zones 
+d'analyse et de situer les dynamiques socio-économiques liées à 
+l'attractivité touristique de chacune des deux villes.
+
+## 2. Les carreaux Filosofi 200 m — INSEE
+
+Les données Filosofi (Fichier Localisé Social et Fiscal) sont produites 
+par l'INSEE à partir du rapprochement des fichiers fiscaux et sociaux. 
+Elles sont disponibles à une résolution de 200 mètres par 200 mètres, 
+ce qui en fait une source d'information infra-communale particulièrement 
+fine. Chaque carreau contient des indicateurs sur les revenus des ménages 
+(revenu médian, taux de pauvreté, niveau de vie), le nombre d'habitants 
+et la composition des foyers.
+
+Dans le cadre de ce projet, ces données sont essentielles pour répondre 
+à notre problématique : elles permettent d'observer concrètement si les 
+zones les plus touristiques de Bordeaux et Biarritz correspondent aux 
+secteurs où les revenus sont les plus élevés, et si les populations aux 
+revenus modestes se concentrent en périphérie.
+
+## 3. Les données OFGL — Observatoire des Finances et de la Gestion 
+publique Locales
+
+Les données de l'OFGL renseignent sur la situation financière des 
+communes françaises à l'échelle communale. Elles contiennent des 
+indicateurs tels que les recettes et dépenses des collectivités, 
+le potentiel fiscal, ou encore les dotations de l'État.
+
+Dans notre étude, ces données permettent de comparer le profil financier 
+global de Bordeaux et Biarritz et d'interroger le lien entre attractivité 
+touristique et richesse communale.
