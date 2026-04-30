@@ -1,0 +1,23 @@
+name: "Bordeaux et Biarritz - Inégalités et tourisme"
+navbar:
+  left:
+    - text: "Accueil"
+      href: index.html
+    - text: "Données"
+      href: donnees.html
+    - text: "Problématique"
+      href: problematique.html
+    - text: "Géotraitements vecteur"
+      href: vecteur.html
+    - text: "Géotraitements raster"
+      href: raster.html
+    - text: "Jointures"
+      href: jointures.html
+  right:
+    - icon: fa-github
+      href: https://github.com/garance1902/garance1902.github.io
+output:
+  html_document:
+    toc_float: TRUE
+    theme: flatly
+    highlight: tango
