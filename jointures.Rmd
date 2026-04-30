@@ -1,0 +1,27 @@
+---
+title: "Jointures attributaires et spatiales"
+output: html_document
+---
+
+## Les jointures dans notre projet
+
+Deux types de jointures ont été mobilisés dans ce projet afin de 
+croiser les différentes sources de données.
+
+## Jointure attributaire
+
+La jointure attributaire a permis de relier les données financières 
+de l'OFGL aux contours communaux issus d'OpenStreetMap, en utilisant 
+le code INSEE comme identifiant commun aux deux tables. Cette opération 
+permet d'associer à chaque commune ses indicateurs financiers (recettes, 
+dépenses, potentiel fiscal), rendant possible leur représentation 
+cartographique.
+
+## Jointure spatiale
+
+La jointure spatiale a quant à elle été utilisée pour rattacher les 
+carreaux Filosofi aux communes de Bordeaux et Biarritz. N'ayant pas 
+d'identifiant commun, c'est la position géographique des carreaux qui 
+a permis de les associer à la commune dans laquelle ils se situent. 
+Cette jointure est fondamentale dans notre étude car elle conditionne 
+l'ensemble de l'analyse infra-communale des inégalités de revenus.
