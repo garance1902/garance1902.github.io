@@ -1,0 +1,26 @@
+---
+title: "Bordeaux et Biarritz - Inégalités et tourisme"
+author: "Garance et Domitillmie"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Présentation du projet
+
+Ce projet s'inscrit dans le cadre du cours de Systèmes d'Information 
+Géographique (SIG) en L3 de géographie à Sorbonne Université. 
+Il porte sur l'analyse spatiale des inégalités socio-économiques 
+à Bordeaux et Biarritz, deux villes attractives du Sud-Ouest français.
+
+## Communes étudiées
+
+- **Bordeaux** — Métropole régionale de Nouvelle-Aquitaine, 
+classée au patrimoine mondial de l'UNESCO
+- **Biarritz** — Station balnéaire de prestige du département 
+des Pyrénées-Atlantiques (64)
+
+## Données utilisées
+
+- Limites communales OpenStreetMap (OSM)
+- Carreaux Filosofi 200m (INSEE)
+- Données financières communales (OFGL)
