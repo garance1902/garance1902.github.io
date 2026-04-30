@@ -1,0 +1,45 @@
+---
+title: "Problématique"
+output: html_document
+---
+
+## Introduction
+
+Le tourisme constitue aujourd'hui l'un des principaux moteurs de 
+transformation des territoires urbains français. En attirant des flux 
+de visiteurs, des investissements immobiliers et une demande croissante 
+de services haut de gamme, il remodèle profondément la géographie 
+sociale des villes qui en font leur moteur économique. Bordeaux et 
+Biarritz, deux villes du Sud-Ouest français, illustrent particulièrement 
+bien ce phénomène. Bordeaux, métropole régionale classée au patrimoine 
+mondial de l'UNESCO depuis 2007, a connu une transformation urbaine 
+spectaculaire au cours des deux dernières décennies, portée par le 
+tourisme culturel et œnotouristique. Biarritz, quant à elle, station 
+balnéaire de prestige héritée du Second Empire, tire son identité de 
+son attractivité touristique et de son image de ville chic et cosmopolite.
+
+## Problématique
+
+Dans quelle mesure l'attractivité touristique de Bordeaux et Biarritz 
+se traduit-elle par une polarisation spatiale des inégalités de revenus 
+entre centre et périphérie ?
+
+## Conclusion
+
+Cette étude comparative de Bordeaux et Biarritz met en lumière le lien 
+étroit qui existe entre attractivité touristique et organisation spatiale 
+des inégalités de revenus. Les traitements réalisés à partir des données 
+Filosofi et OFGL permettent de visualiser concrètement comment la 
+richesse se concentre dans certains quartiers — notamment les zones les 
+plus prisées des touristes et des investisseurs — tandis que les 
+populations aux revenus plus modestes se retrouvent reléguées en 
+périphérie.
+
+Ce phénomène, observable dans les deux villes, prend néanmoins des 
+formes distinctes selon leur profil : à Bordeaux, la métropolisation 
+accélérée produit une ségrégation à grande échelle, tandis qu'à 
+Biarritz, le caractère très localisé de la pression touristique génère 
+des contrastes particulièrement marqués à l'échelle du quartier. Ces 
+résultats invitent à interroger les politiques d'aménagement et de 
+logement dans des territoires où l'attractivité économique et touristique 
+risque de se faire au détriment de la mixité sociale.
